@@ -3,4 +3,5 @@ Detecting broken constraints in Swift, especially within iOS development using U
 
 Debugging Broken Constraints:
 Debugging in Interface Builder (IB):
-![Uploading Screenshot 2024-02-08 at 6.39.30 PM.png…]()
+
+![Screenshot 2024-02-08 at 6 39 30 PM](https://github.com/cizodevahm/BrokenConstraints/assets/93611338/db0a4c29-5fe9-4aa9-9341-640ddfbd9bbe)
